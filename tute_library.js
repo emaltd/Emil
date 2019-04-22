@@ -1,8 +1,7 @@
 
 
-alert("TEST");
+alert("Welcome to my website");
 
-alert("TEST");
+alert("I hope you find something useful");
 
-
-alert ("TEST");
+alert ("Enjoy!");
